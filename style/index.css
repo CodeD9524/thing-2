@@ -1,0 +1,33 @@
+p {
+    margin-top: 77px;
+    margin-bottom: 41px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ p2 {
+  
+    font-size: x-large;
+    padding-left: 8px;
+    padding-right: 7em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+} 
+p3 {
+    font-size: larger;
+padding-left: 6em;
+
+}
+h1 {
+    color: aqua;
+    margin-right: 214px;
+    margin-left: 167px;
+    margin-bottom: 43px;
+    border-block: yellow;
+    border-top-width: 45px;
+    border-bottom-width: 25px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+img {
+margin-left: -31em;
+margin-top:  40px;
+}
